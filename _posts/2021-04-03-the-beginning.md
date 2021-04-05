@@ -3,18 +3,6 @@ layout: post
 title: "The beginning"
 ---
 
-# The idea
-Every week, write a blog post describing what I learned, and how it's changed my life.
-
-Goal: Reflect on what I've learned and write it down, so I can
-- better internalize ideas
-- remind myself of important learnings
-- practice sharing  my thoughts in a higher leverage way
-
-Success criteria:
-- Less than 1 hour required to write and publish each post
-- I'm satisfied with the time spent, even if 0 people read it
-
 # April 03, 2021
 
 - What did I learn this week? 
@@ -83,9 +71,9 @@ From **The Art of Happiness** ep4:
 - ratemymusic.com
 
 ## Notes
-- ~Should I write in 1st person or 2nd person? (pronouns, I vs You)~ I'll write to myself
+- ~~Should I write in 1st person or 2nd person? (pronouns, I vs You)~~ I'll write to myself
 - What should my template look like? What do I want to emphasize in my structure?
-- ~How will I publish?~ Thanks for making it easy, Github pages
+- ~~How will I publish?~~ Thanks for making it easy, Github pages
 - Who should I ask to read it?
 
 
