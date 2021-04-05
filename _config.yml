@@ -6,6 +6,9 @@ description: >
   The idea: Every week, write a blog post describing what I've learned, and how it’s changed my life.
   The reality: We'll see about that.
 
+header_pages:
+ - _posts/2020-04-03-the-idea.md
+
 theme: minima
 
 # See: https://github.com/jekyll/minima/blob/master/_config.yml 
