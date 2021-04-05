@@ -1,1 +1,16 @@
+title: reflection
+author:
+  name: Jason Yu
+  email: jasonyu6154@gmail.com
+description: >
+  The idea: Every week, write a blog post describing what I've learned, and how it’s changed my life.
+  The reality: We'll see about that.
+
 theme: minima
+
+# See: https://github.com/jekyll/minima/blob/master/_config.yml 
+minima:
+  social_links:
+    github:  jasontyu
+    linkedin: jasontyu
+    instagram: jasontigeryu
