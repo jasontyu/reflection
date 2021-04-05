@@ -9,8 +9,8 @@ description: >
 theme: minima
 
 # See: https://github.com/jekyll/minima/blob/master/_config.yml 
-minima:
+minima: 
   social_links:
-    github:  jasontyu
+    github: jasontyu
     linkedin: jasontyu
     instagram: jasontigeryu
